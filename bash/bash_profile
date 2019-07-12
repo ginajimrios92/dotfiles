@@ -1,0 +1,21 @@
+###################################
+#  Author: Gina Jiménez         
+#  Maintainer: Gina Jiménez
+#  Date: July 2019
+#
+###################################
+
+# Set environment variables
+export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\n \$ "
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+
+# Path configuration
+PATH+=":/Applications/RStudio.app/Contents/MacOS/pandoc"
+
+#Creat aliases
+alias ll='ls -ltrFG'
+alias git='git status'
+
+# done
+
