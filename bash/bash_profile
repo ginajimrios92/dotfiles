@@ -15,7 +15,7 @@ PATH+=":/Applications/RStudio.app/Contents/MacOS/pandoc"
 
 #Creat aliases
 alias ll='ls -ltrFG'
-alias git='git status'
+alias gs='git status'
 
 # done
 
